@@ -1,0 +1,28 @@
+Permission:
+  noPermission: "Nu ai permisiunea sa %s."
+Auction:
+    start: "Incepe o licitatie."
+    bid: "Liciteaza"
+    cancel: "Anuleaza o licitatie."
+    end: "Incheie o licitatie."
+Bidding:
+  bidSuccess: "Ai licitat %,d pe %s."
+  bidFailure: "Ceva nu a functionat in timpul licitatiei."
+  overMax: "Nu poti licita mai mult de %s in acest moment."
+  underMin: "Trebuie sa licitezi cel putin %,d."
+  outBid: "%s a licitat mai mult decat tine!"
+  notRunning: "Nu exista nicio licitatie in desfasurare."
+  playerWinning: "Deja castigi aceasta licitatie."
+Auction:
+  alreadyStarted: "Exista deja o licitatie in desfasurare."
+  cooldown: "Licitatia este intr-o perioada de coolodown, te rugam sa astepti %d"
+Console:
+  cantStartAuction: "Ne pare rau, doar jucatorii pot incepe o licitatie."
+  cantBid: "Ne pare rau, doar jucatorii pot licita."
+Etc:	
+  reloadConfig: "Fisierul de configurare reincarcat: %s"
+Locale:
+  available: "Locatii disponibile: %s"
+  changed: "Locatia dumneavoastra s-a schimbat la %s"
+  notFound: "Nicio locatie disponibila pentru %s"
+  
